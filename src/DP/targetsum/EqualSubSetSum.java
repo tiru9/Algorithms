@@ -1,4 +1,4 @@
-package DP.fibonacci;
+package DP.targetsum;
 
 /*
 *
